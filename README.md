@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @311298
 - 👀 I’m interested in web development.
-- 🌱 I’m currently learning angular for front-end and back-end still no decided learning java for oops.
+- 🌱 I’m currently learning angular for front-end and back-end still not decided learning java for oops.
 - 💞️ I’m looking to collaborate on open source web dev projects
 - 📫 How to reach me right now not on any social media , but can email me at kashyapanurag109@gmail.com
 
